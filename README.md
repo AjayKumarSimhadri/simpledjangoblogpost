@@ -13,7 +13,6 @@ Follow the steps below to set up your development environment and start using th
 ### Prerequisites
 
 - Python
-- Django
 
 ### Environment Setup
 
