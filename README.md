@@ -4,7 +4,11 @@
 ---
 This is a simple blog project created using Django.
 
-In the context of a Django blog project, a "blog post" refers to an individual article or entry that is published on the blog. It typically includes a title, content, and additional metadata such as the publication date, author, and tags/categories. Blog posts are the main content units that users can create, read, edit, and delete within the blog application. They are displayed on the blog's webpages and can be organized and categorized based on various criteria, such as date, category, or tag. Blog posts allow users to share information, ideas, opinions, or stories with the readership of the blog.
+In the context of a Django blog project, a "blog post" refers to an individual article or entry that is published on the blog. It typically includes a title, content, and additional metadata such as the publication date, author, and tags/categories. 
+
+![image](https://github.com/AjayKumarSimhadri/simpledjangoblogpost/assets/80450306/e37a47ea-250b-4bf9-9752-833f53805a54)
+
+Blog posts are the main content units that users can create, read, edit, and delete within the blog application. They are displayed on the blog's webpages and can be organized and categorized based on various criteria, such as date, category, or tag. Blog posts allow users to share information, ideas, opinions, or stories with the readership of the blog.
 
 ## Getting Started
 
